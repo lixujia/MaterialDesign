@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
+	<rect x="8.79167" y="4.54166" fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" width="6.6875" height="12.4844"/>
+	<rect x="8.82292" y="18.8542" fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" width="6.59375" height="2.15625"/>
+	<rect x="3.7448" y="5.22923" fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" width="16.4167" height="0.755142"/>
+	<rect x="13.5417" y="8.41667" fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" width="0.3125" height="7.125"/>
+	<rect x="9.60417" y="5.22916" fill="#FFFFFF" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" width="5.1875" height="9.0625"/>
+	<ellipse fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" cx="12.1979" cy="7.13542" rx="0.59375" ry="0.531247"/>
+	<ellipse fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" cx="12.2292" cy="9.72917" rx="0.59375" ry="0.531247"/>
+	<ellipse fill="#000000" fill-opacity="1" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" cx="12.2917" cy="12.2292" rx="0.59375" ry="0.531247"/>
+</svg>
